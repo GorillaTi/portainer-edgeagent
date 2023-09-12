@@ -1,1 +1,1 @@
-# Portainer Agent
+# Portainer EdgeAgent
